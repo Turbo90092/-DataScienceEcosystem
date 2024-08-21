@@ -1,1 +1,3 @@
 # -DataScienceEcosystem
+
+Note book excercises 
